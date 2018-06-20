@@ -1,0 +1,10 @@
+  {
+    "name": "Get Started Chrome Extension",
+    "description" : "GetStartedChromeExtensions is a basic foundation boilerplate for create Chrome Extensions.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "Application/DefaultPopupWindow/DefaultPopupWindow.html",
+      "default_icon": "Common/Images/DefaultIcon.png"
+    }
+  }
