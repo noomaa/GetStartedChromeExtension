@@ -10,11 +10,17 @@ GetStartedChromeExtension is a basic foundation boilerplate for create Chrome Ex
 ## Releases
 [Current Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
 
+## Contribution
+Feel free to [suggest](https://github.com/noomaa/GetStartedChromeExtension/issues) anything you see [missing](https://github.com/noomaa/GetStartedChromeExtension/issues) or want to be [fixed](https://github.com/noomaa/GetStartedChromeExtension/issues)!
+
+
 ## License
-For more information, see [license](LICENSE.md).
+
+> This program is free software. you can redistribute it and/or modify it under the terms of the [MIT License](LICENSE.md). For more information, see [LICENSE.md](LICENSE.md).
+
+> This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [MIT License](LICENSE.md) for more details.
+
 
 ## Copyright
 
-#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk).
-
-#### Copyright © 2018 [Iam Programmer](https://www.iamprogrammer.lk).
+#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk). and respective [authors](https://github.com/noomaa/GetStartedChromeExtension/graphs/contributors).
