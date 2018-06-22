@@ -9,7 +9,7 @@
 
 ## Releases
 ### [Latest Version](https://github.com/noomaa/GetStartedChromeExtension/releases/latest)
-#### [v18.06.22.22](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.22) - First Official Release
+#### [v18.06.22.22](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.22) - First Official Release.
 
 ### [Old Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
 #### [v18.06.22.01](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.01) - Initial release before the official release.
