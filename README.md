@@ -23,4 +23,4 @@ Feel free to [suggest](https://github.com/noomaa/GetStartedChromeExtension/issue
 
 ## Copyright
 
-#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk). and respective [authors](https://github.com/noomaa/GetStartedChromeExtension/graphs/contributors).
+#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk). and [respective authors](https://github.com/noomaa/GetStartedChromeExtension/graphs/contributors).
