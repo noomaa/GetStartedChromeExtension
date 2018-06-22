@@ -7,13 +7,13 @@
     "short_name": "Get Started",
     
     // https://developer.chrome.com/extensions/manifest/description
-    "description": "GetStartedChromeExtensions is a basic foundation boilerplate for create Chrome Extensions.",
+    "description": "Get Started Chrome Extensions is a basic foundation boilerplate for create Chrome Extensions.",
     
     // Optional
     "author": "Iam Programmer © www.iamprogrammer.lk",
     
     // https://developer.chrome.com/extensions/manifest/version
-    "version": "1.0.0.0",
+    "version": "18.06.22.22",
     
     // https://developer.chrome.com/extensions/manifestVersion
     "manifest_version": 2,
