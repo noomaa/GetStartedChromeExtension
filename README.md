@@ -8,7 +8,11 @@ GetStartedChromeExtension is a basic foundation boilerplate for create Chrome Ex
 
 
 ## Releases
-[Current Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
+### [Latest Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
+#### [v18.06.22.01]()
+
+### [Old Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
+#### []()
 
 ## Contribution
 Feel free to [suggest](https://github.com/noomaa/GetStartedChromeExtension/issues) anything you see [missing](https://github.com/noomaa/GetStartedChromeExtension/issues) or want to be [fixed](https://github.com/noomaa/GetStartedChromeExtension/issues)!
@@ -23,4 +27,4 @@ Feel free to [suggest](https://github.com/noomaa/GetStartedChromeExtension/issue
 
 ## Copyright
 
-#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk). and [respective authors](https://github.com/noomaa/GetStartedChromeExtension/graphs/contributors).
+#### Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk). and [Respective Authors](https://github.com/noomaa/GetStartedChromeExtension/graphs/contributors).
