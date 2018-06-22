@@ -9,10 +9,21 @@
 
 ## Releases
 ### [Latest Version](https://github.com/noomaa/GetStartedChromeExtension/releases/latest)
-#### [v18.06.22.01](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.01) - First initial release.
+#### [v18.06.22.01](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.01) - First Official Release
 
 ### [Old Version](https://github.com/noomaa/GetStartedChromeExtension/releases)
-#### [v18.06.22.01](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.01) - First initial release.
+#### [v18.06.22.01](https://github.com/Noomaa/GetStartedChromeExtension/releases/tag/v18.06.22.01) - Initial release before the official release.
+
+
+## Installation
+> 1. Clone the repository `git clone https://github.com/noomaa/GetStartedChromeExtension.git MyProjectName` or download ZIP file from [here](https://github.com/noomaa/GetStartedChromeExtension/releases/latest).
+> 2. Visit `chrome://extensions` and expand "Development mode" (top right).
+> 3. Click "LOAD UNPACKED" and point to the new project directory (../Path/To/MyProjectName).
+> 4. It's installed! You should see a new button in your address bar. Click on it!
+ 
+ 
+ ## Documents
+ Most of the code is scribbed together from the docs at [http://code.google.com/chrome/extensions](http://code.google.com/chrome/extensions)
 
 
 ## Contribution
