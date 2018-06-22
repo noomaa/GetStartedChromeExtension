@@ -1,10 +1,89 @@
-  {
+// https://developer.chrome.com/extensions
+{
+    // https://developer.chrome.com/extensions/manifest/name
     "name": "Get Started Chrome Extension",
-    "description" : "GetStartedChromeExtensions is a basic foundation boilerplate for create Chrome Extensions.",
-    "version": "1.0",
+    
+    // Optional - https://developer.chrome.com/extensions/manifest/name#short_name
+    "short_name": "Get Started",
+    
+    // https://developer.chrome.com/extensions/manifest/description
+    "description": "GetStartedChromeExtensions is a basic foundation boilerplate for create Chrome Extensions.",
+    
+    // Optional
+    "author": "Iam Programmer © www.iamprogrammer.lk",
+    
+    // https://developer.chrome.com/extensions/manifest/version
+    "version": "1.0.0.0",
+    
+    // https://developer.chrome.com/extensions/manifestVersion
     "manifest_version": 2,
-    "browser_action": {
-      "default_popup": "Application/DefaultPopupWindow/DefaultPopupWindow.html",
-      "default_icon": "Common/Images/DefaultIcon.png"
+    
+    // https://developer.chrome.com/extensions/options
+    "options_page": "Application/Options/ExtensionOptions.html",
+    
+    // https://developer.chrome.com/extensions/permissions
+    "permissions": [
+        "storage", 
+        "activeTab"
+    ],
+    
+    // https://developer.chrome.com/extensions/browserAction
+    "browser_action":
+    {
+        // Optional - Shown in tooltip
+        "default_title": "Chrome extension by Noomaa", 
+        
+        // Optional - Shown popup window when you click on tool bar button
+        "default_popup": "Application/Default/PopupWindow.html",
+        
+        // Optional - Toolbar icon
+        "default_icon": 
+        {
+            "16": "Application/Common/Images/GetStartedIcon_16x16.png",
+            "24": "Application/Common/Images/GetStartedIcon_24x24.png",
+            "32": "Application/Common/Images/GetStartedIcon_32x32.png"
+        }
+    },
+    
+    // https://developer.chrome.com/extensions/background_pages
+    "background": 
+    {
+        "scripts": [
+            "Application/Common/Javascripts/Background.js"
+        ],
+        "persistent": false
+    },
+    
+    // https://developer.chrome.com/extensions/commands
+    "commands": 
+    {
+        // The '_execute_browser_action' command for the action of opening your extension's popups. 
+        "_execute_browser_action":
+        {
+            "suggested_key": 
+            {
+                "default": "Ctrl+Shift+F",
+                "mac": "MacCtrl+Shift+F"
+            },
+            "description": "This will execute 'browser_action' command"
+        }
+    },
+    
+    // https://developer.chrome.com/extensions/user_interface#icons
+    "icons": 
+    {
+        // Favicon on the extension's pages
+        "16": "Application/Common/Images/GetStartedIcon_16x16.png",
+        
+        // Windows computers often require this size. 
+        // Providing this option will prevent size distortion from shrinking the 48x48 option.
+        "32": "Application/Common/Images/GetStartedIcon_32x32.png",
+        
+        // Displays on the extensions management page
+        "48": "Application/Common/Images/GetStartedIcon_48x48.png",
+        
+        // Displays on installation and in the Chrome Webstore
+        "128": "Application/Common/Images/GetStartedIcon_128x128.png"
     }
-  }
+    
+}

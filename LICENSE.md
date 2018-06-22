@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2018 Noomaa Tech Ventures (PVT) LTD.
+Copyright © 2018 [Noomaa Tech Ventures (PVT) LTD](https://www.noomaa.lk).
+
+Copyright © 2018 [Iam Programmer](https://www.iamprogrammer.lk).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,0 +1,71 @@
+/*
+ * Get Started Chrome Extension 
+ * https://github.com/noomaa/GetStartedChromeExtension
+ *
+ * Copyright © 2018 Noomaa Tech Ventures (PVT) LTD.
+ * https://www.noomaa.lk
+ *
+ * Copyright © 2018 Iam Programmer.
+ * https://www.iamprogrammer.lk
+ *
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+*/
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Open Sans",Arial,"Lucida Grande",sans-serif;
+    line-height: 1.5em;
+}
+
+body {
+    font-size: 13px;
+    color: #777;
+    margin: 10px 10px;
+    width: auto;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+}
+
+a {
+    background: 0 0;
+    cursor: pointer;
+}
+
+a, a:link, a:visited {
+    color: #39c;
+    font-weight: 700;
+    text-decoration: none;
+    word-wrap: break-word;
+    transition: opacity .3s ease 0s;
+}
+
+h2 {
+    line-height: 1.12em;
+    color: #000;
+    font-weight: 500;
+    font-size: 1.875em;
+    margin-top: 1.6em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+p {
+    margin: 1.5em 0;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
